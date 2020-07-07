@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-🚀 Desafio: Conceitos do Node.js 🚀
+🚀 Desafio: Conceitos do ReactJS 🚀
 </h1>
 
 ## Sobre
